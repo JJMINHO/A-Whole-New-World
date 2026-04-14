@@ -24,7 +24,8 @@ This program is an AR tool that is based on your video.
 
 카메라의 움직임과 렌즈의 왜곡을 완벽하게 반영하여 원근감이 적용되는 실시간 3D 피라미드의 모습입니다.
 
-> **[💡 팁: 이곳에 코드를 실행하여 캡처한 `.jpg` 이미지나, 자동 저장된 `AR_Final_Result.mp4` 파일을 드래그 앤 드롭해서 넣어주세요!]**
+
+
 
 ---
 
