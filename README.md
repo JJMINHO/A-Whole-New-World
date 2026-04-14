@@ -57,7 +57,7 @@
 1. 본 저장소를 Clone 하거나 파일을 다운로드합니다.
 2. 터미널(또는 명령 프롬프트)에서 해당 폴더로 이동하여 아래 명령어를 실행합니다.
 ```bash
-python ar_pyramid_visualization.py
+python AR_Rendering.py
 ```
 
 *주의 : 실행에 필요한 .npz 파라미터 파일과 .mp4 원본 영상 파일은 반드시 소스코드와 같은 폴더 내에 위치해야 합니다!
